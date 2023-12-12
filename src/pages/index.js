@@ -1,2 +1,1 @@
-// IMPORT CSS FILE
-import "./index.css";
+import './index.scss';

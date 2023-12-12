@@ -1,2 +1,4 @@
-# production
-/dist/**/*
+/dist
+/public
+/node_modules
+/srs/lib/*.js

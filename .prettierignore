@@ -1,2 +1,5 @@
-# production
-/dist/**/*
+/dist
+/public
+/node_modules
+/src/lib
+package-lock.json
